@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Pittsburgh Metro Area, PA, US",
+  "export_job_id": "ce45970c-cc2c-455f-9263-b6ffb0d7b347",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 994406,
+  "location_name": "Pittsburgh, PA",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-pittsburgh-metro-area-pa-us-sample-994406",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/994406/beamstation_994406_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
+  "sample_pct": 14.29,
+  "sample_records": 1,
+  "sample_sha256": "8b7306ade07d466f1751a4f0577bf0503f4ad38c3f87c3330ef01926c964751e",
+  "sample_size_bytes": 20252,
+  "total_records": 7,
+  "updated_at": "2026-04-08T02:55:56.868892+00:00"
+}
