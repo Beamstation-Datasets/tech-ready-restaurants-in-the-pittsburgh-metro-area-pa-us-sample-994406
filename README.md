@@ -9,9 +9,9 @@
 | Dataset ID | `994406` |
 | Location | Pittsburgh, PA |
 | Category | Restaurants |
-| Full dataset size | 7 records |
-| Free sample size | 1 records (14.29%) |
-| Last export | 2026-04-08T02:55:56.868892+00:00 |
+| Full dataset size | 4 records |
+| Free sample size | 1 records (25.0%) |
+| Last export | 2026-04-15T08:04:09.186405+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-pittsburgh-metro-area-pa-us-sample-994406/releases/download/sample-latest/beamstation_994406_restaurants-us-pittsburghpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
