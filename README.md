@@ -1,6 +1,6 @@
 # Tech-Ready Restaurants in the Pittsburgh Metro Area, PA, US
 
-> Free BeamStation sample export with 2 rows and masked direct-contact fields.
+> Free BeamStation sample export with 8 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `994406` |
 | Location | Pittsburgh, PA |
 | Category | Restaurants |
-| Full dataset size | 23 records |
-| Free sample size | 2 records (8.7%) |
-| Last export | 2026-04-22T15:29:39.798042+00:00 |
+| Full dataset size | 81 records |
+| Free sample size | 8 records (9.88%) |
+| Last export | 2026-04-29T15:34:00.465939+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-pittsburgh-metro-area-pa-us-sample-994406/releases/download/sample-latest/beamstation_994406_restaurants-us-pittsburghpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
