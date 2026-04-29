@@ -1,12 +1,12 @@
 {
-  "export_job_id": "53bfa4dc-c2cc-4630-b51e-3eb7e8b25346",
+  "export_job_id": "cbadeba3-fd38-4c03-856a-f81e24490bca",
   "id_short": 994406,
-  "published_at": "2026-04-23T07:30:59Z",
+  "published_at": "2026-04-29T19:52:40Z",
   "repo_name": "tech-ready-restaurants-in-the-pittsburgh-metro-area-pa-us-sample-994406",
   "sample_asset_name": "beamstation_994406_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/994406/beamstation_994406_restaurants-us-pittsburghpa_SAMPLE_DIST.csv",
-  "sample_records": 2,
-  "sample_sha256": "9c19a5c90633bac502f06afc0a2f1aef3af67945c6b85ae464d15d2c0e34627b",
-  "sample_size_bytes": 22581,
-  "total_records": 23
+  "sample_records": 8,
+  "sample_sha256": "4ecc6996e2b27cbcfc3c62c6d627cb0eea92d4abde7ab2f3628756e001fd2879",
+  "sample_size_bytes": 48183,
+  "total_records": 81
 }
